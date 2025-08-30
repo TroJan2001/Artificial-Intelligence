@@ -4,7 +4,7 @@ This repository contains a single Jupyter notebook implementing a **gender class
 
 ## Contents
 - `Project.ipynb` — end-to-end notebook: data loading/preprocessing, model definition and training, and evaluation/visualization.
-- `CPE451 Report of Student No.0197061.pdf` — project write-up with background, method, and results.
+- `CPE451 Report` — project write-up with background, method, and results.
 
 ## Highlights
 - Computer vision pipeline on eye crops (preprocessing, normalization, basic augmentation).
